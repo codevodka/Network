@@ -1,0 +1,33 @@
+[
+    {
+        "type": "folder",
+        "name": "david-bombal-udemy-ccna",
+        "children": [
+            {
+                "type": "file",
+                "name": "02-TCP_IP-Model.pdf",
+                "path": "david-bombal-udemy-ccna/02-TCP_IP-Model.pdf"
+            },
+            {
+                "type": "file",
+                "name": "03-binary.pdf",
+                "path": "david-bombal-udemy-ccna/03-binary.pdf"
+            },
+            {
+                "type": "file",
+                "name": "04-hexadecimal.pdf",
+                "path": "david-bombal-udemy-ccna/04-hexadecimal.pdf"
+            },
+            {
+                "type": "file",
+                "name": "05-cheatsheet-IPv4_Subnetting.pdf",
+                "path": "david-bombal-udemy-ccna/05-cheatsheet-IPv4_Subnetting.pdf"
+            },
+            {
+                "type": "file",
+                "name": "What-is-a-network.pdf",
+                "path": "david-bombal-udemy-ccna/What-is-a-network.pdf"
+            }
+        ]
+    }
+]
