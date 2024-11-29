@@ -28,6 +28,11 @@
                 "name": "05-cheatsheet-IPv4_Subnetting.pdf",
                 "path": "david-bombal-udemy-ccna/05-cheatsheet-IPv4_Subnetting.pdf"
             },
+            {
+                "type": "file",
+                "name": "06-physical-terminations.pdf",
+                "path": "david-bombal-udemy-ccna/06-physical-terminations.pdf"
+            },
         ]
     }
 ]
